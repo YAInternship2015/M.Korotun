@@ -10,6 +10,8 @@
 
 @interface MKNumber : NSObject
 
+#warning Не нудно показывать readwrite свойства в *.h файле, так их может кто угодно изменить извне. В *.h показывайте свойства как readonly, а уже в *.m как readwrite. А для заполнения модели данными напишите кастомный init, который параметрами будет принимать дынные
+
 @property (nonatomic, assign) int number;
 @property (strong, nonatomic) NSString *imageName;
 

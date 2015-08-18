@@ -10,6 +10,7 @@
 
 @implementation MKNumberCell
 
+#warning следующие два метода можно удалить
 - (void)awakeFromNib {
     // Initialization code
 }

@@ -21,6 +21,7 @@
 -(void)viewDidLoad {
     [super viewDidLoad];
     
+#warning это все должно уехать в датасорс
     self.numbers = [NSMutableArray arrayWithCapacity:10];
     
     MKNumber *numb;
@@ -40,6 +41,7 @@
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+#warning Это код может иногда падать. Метод dequeueReusableCellWithIdentifier: иногда возвращает nil. Лучше используйте метод dequeueReusableCellWithIdentifier:forIndexPath:, он всегда гарантировано возвращает ячейку
     MKNumberCell *cell = (MKNumberCell *)[tableView dequeueReusableCellWithIdentifier:@"NumberCell"];
     
     MKNumber *numb = (self.numbers)[indexPath.row];

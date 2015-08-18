@@ -10,6 +10,7 @@
 
 @interface MKNumberCell : UITableViewCell
 
+#warning не нужно показывать аутлеты в здесь. Это детали внутренней реализации класса. Перенесите их в *.m и добавьте публичный метод вроде setupWithNumber:, в котором ячейка сама себя заполнит моделью
 @property (nonatomic, weak) IBOutlet UILabel *txtLabel;
 @property (nonatomic, weak) IBOutlet UIImageView *imgView;
 

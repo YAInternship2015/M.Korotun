@@ -13,16 +13,6 @@
 		84C266581B78AC8D009D325D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84C266571B78AC8D009D325D /* Images.xcassets */; };
 		84C266641B78AC8E009D325D /* NumbersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C266631B78AC8D009D325D /* NumbersTests.m */; };
 		84C2666F1B78ACC6009D325D /* MKMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C2666E1B78ACC6009D325D /* MKMainViewController.m */; };
-		84C2667B1B78AE2B009D325D /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266711B78AE2B009D325D /* 9.png */; };
-		84C2667C1B78AE2B009D325D /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266721B78AE2B009D325D /* 8.png */; };
-		84C2667D1B78AE2B009D325D /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266731B78AE2B009D325D /* 7.png */; };
-		84C2667E1B78AE2B009D325D /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266741B78AE2B009D325D /* 6.png */; };
-		84C2667F1B78AE2B009D325D /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266751B78AE2B009D325D /* 5.png */; };
-		84C266801B78AE2B009D325D /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266761B78AE2B009D325D /* 4.png */; };
-		84C266811B78AE2B009D325D /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266771B78AE2B009D325D /* 3.png */; };
-		84C266821B78AE2B009D325D /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266781B78AE2B009D325D /* 2.png */; };
-		84C266831B78AE2B009D325D /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C266791B78AE2B009D325D /* 1.png */; };
-		84C266841B78AE2B009D325D /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C2667A1B78AE2B009D325D /* 10.png */; };
 		84C266871B78FB73009D325D /* MKNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C266861B78FB73009D325D /* MKNumber.m */; };
 		84C2668B1B792481009D325D /* MKNumberCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C2668A1B792481009D325D /* MKNumberCell.m */; };
 /* End PBXBuildFile section */
@@ -50,16 +40,6 @@
 		84C266631B78AC8D009D325D /* NumbersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NumbersTests.m; sourceTree = "<group>"; };
 		84C2666D1B78ACC6009D325D /* MKMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKMainViewController.h; sourceTree = "<group>"; };
 		84C2666E1B78ACC6009D325D /* MKMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKMainViewController.m; sourceTree = "<group>"; };
-		84C266711B78AE2B009D325D /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 9.png; path = ../../../../Downloads/9.png; sourceTree = "<group>"; };
-		84C266721B78AE2B009D325D /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 8.png; path = ../../../../Downloads/8.png; sourceTree = "<group>"; };
-		84C266731B78AE2B009D325D /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.png; path = ../../../../Downloads/7.png; sourceTree = "<group>"; };
-		84C266741B78AE2B009D325D /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.png; path = ../../../../Downloads/6.png; sourceTree = "<group>"; };
-		84C266751B78AE2B009D325D /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.png; path = ../../../../Downloads/5.png; sourceTree = "<group>"; };
-		84C266761B78AE2B009D325D /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.png; path = ../../../../Downloads/4.png; sourceTree = "<group>"; };
-		84C266771B78AE2B009D325D /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = ../../../../Downloads/3.png; sourceTree = "<group>"; };
-		84C266781B78AE2B009D325D /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = ../../../../Downloads/2.png; sourceTree = "<group>"; };
-		84C266791B78AE2B009D325D /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../../../Downloads/1.png; sourceTree = "<group>"; };
-		84C2667A1B78AE2B009D325D /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 10.png; path = ../../../../Downloads/10.png; sourceTree = "<group>"; };
 		84C266851B78FB73009D325D /* MKNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKNumber.h; sourceTree = "<group>"; };
 		84C266861B78FB73009D325D /* MKNumber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKNumber.m; sourceTree = "<group>"; };
 		84C266891B792481009D325D /* MKNumberCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKNumberCell.h; sourceTree = "<group>"; };
@@ -148,16 +128,6 @@
 		84C266701B78ADF6009D325D /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				84C266711B78AE2B009D325D /* 9.png */,
-				84C266721B78AE2B009D325D /* 8.png */,
-				84C266731B78AE2B009D325D /* 7.png */,
-				84C266741B78AE2B009D325D /* 6.png */,
-				84C266751B78AE2B009D325D /* 5.png */,
-				84C266761B78AE2B009D325D /* 4.png */,
-				84C266771B78AE2B009D325D /* 3.png */,
-				84C266781B78AE2B009D325D /* 2.png */,
-				84C266791B78AE2B009D325D /* 1.png */,
-				84C2667A1B78AE2B009D325D /* 10.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -261,17 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84C266561B78AC8D009D325D /* Main.storyboard in Resources */,
-				84C266841B78AE2B009D325D /* 10.png in Resources */,
-				84C2667C1B78AE2B009D325D /* 8.png in Resources */,
-				84C2667D1B78AE2B009D325D /* 7.png in Resources */,
-				84C2667B1B78AE2B009D325D /* 9.png in Resources */,
-				84C2667E1B78AE2B009D325D /* 6.png in Resources */,
-				84C2667F1B78AE2B009D325D /* 5.png in Resources */,
-				84C266801B78AE2B009D325D /* 4.png in Resources */,
-				84C266811B78AE2B009D325D /* 3.png in Resources */,
-				84C266831B78AE2B009D325D /* 1.png in Resources */,
 				84C266581B78AC8D009D325D /* Images.xcassets in Resources */,
-				84C266821B78AE2B009D325D /* 2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -478,6 +438,7 @@
 				84C266691B78AC8E009D325D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84C2666A1B78AC8E009D325D /* Build configuration list for PBXNativeTarget "NumbersTests" */ = {
 			isa = XCConfigurationList;
@@ -486,6 +447,7 @@
 				84C2666C1B78AC8E009D325D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
